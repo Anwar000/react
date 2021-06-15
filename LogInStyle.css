@@ -1,0 +1,24 @@
+.logInPage{
+    border: rgb(14, 5, 20) 5px solid;
+    background-color: #03313d;
+    text-align:  center;
+    padding: 90px 0px 90px 0px;
+    margin: 100px 500px 100px 500px;
+}
+.inputStyle input{
+    background-color: rgb(242, 241, 245);
+    padding: 9px 30px;
+        border: 3px solid #03313d;
+        border-radius: 20px;
+        font-size: large;
+        background-color: rgb(230, 227, 227);
+}
+.loginButton{
+    border: 3px solid green;
+    font-size: large;
+    background-color: green;
+    border-radius: 30px;
+    padding: 10px 50px 10px 50px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,22 @@
+.userBody{
+    background-color: #03313d;
+    text-align: left 200px;
+    border-left: skyblue;
+    margin: -141px 0px 0px 200px;
+    padding: 10px 20px 100px 60px;
+    color: white;
+}
+.mainPageHeadder{
+    background-color: grey;
+    text-align: center;
+    color: white;
+    
+}
+.navBar li{
+    list-style-type: none;
+    text-decoration: none;
+    background-color: rgb(250, 250, 250);
+   
+
+}
+
